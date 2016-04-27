@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterTimeLineApp</string>
+    <string name="login_with_twitter">Login com Twitter</string>
+    <string name="permission_denied">Permissão negada</string>
+</resources>
